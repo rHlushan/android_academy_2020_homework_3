@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidAcademy2020Homework3</string>
+
+    <string name="back">Back</string>
+    <string name="avengers_movie_name">Avengers:\nEnd Game</string>
+    <string name="avengers_movie_tags">Action, Adventure, Fantasy</string>
+    <string name="storyline_title">Storyline</string>
+    <string name="cast_title">Cast</string>
+
+    <string name="storyline">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="movie_cast_1_name">Robert\nDowney Jr.</string>
+    <string name="movie_cast_2_name">Chris\nEvans</string>
+    <string name="movie_cast_3_name">Mark\nRuffalo</string>
+    <string name="movie_cast_4_name">Chris\nHemsworth</string>
+</resources>
