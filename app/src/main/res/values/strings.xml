@@ -10,8 +10,8 @@
     <string name="age_restrictions">13+</string>
     <string name="reviews_count">125 Reviews</string>
     <string name="storyline">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
-    <string name="movie_cast_1_name">Robert\nDowney Jr.</string>
-    <string name="movie_cast_2_name">Chris\nEvans</string>
-    <string name="movie_cast_3_name">Mark\nRuffalo</string>
-    <string name="movie_cast_4_name">Chris\nHemsworth</string>
+    <string name="movie_cast_1_name">Robert Downey Jr.</string>
+    <string name="movie_cast_2_name">Chris Evans</string>
+    <string name="movie_cast_3_name">Mark Ruffalo</string>
+    <string name="movie_cast_4_name">Chris Hemsworth</string>
 </resources>
